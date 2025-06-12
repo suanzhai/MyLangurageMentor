@@ -1,0 +1,5 @@
+2025-06-12 14:57:19 | INFO | conversation_tab:handle_conversation:20 - [ChatBot]: Hello, how can I help you?
+2025-06-12 14:57:19 | INFO | conversation_tab:handle_conversation:20 - [ChatBot]: What's your name?
+2025-06-12 14:57:19 | DEBUG | agent_base:chat_with_history:55 - [ChatBot][hotel_checkin] Response from agent
+2025-06-12 14:57:19 | INFO | session_history:get_session_history:11 - Session history for shared: shared
+2025-06-12 14:57:19 | INFO | session_history:get_session_history:11 - Session history for shared: shared
