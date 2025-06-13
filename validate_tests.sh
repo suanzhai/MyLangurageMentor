@@ -10,3 +10,4 @@ if grep -q "FAILED" test_results.txt; then
 else
     echo "All tests passed!"
     exit
+
